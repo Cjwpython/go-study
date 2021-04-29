@@ -6,4 +6,5 @@ var Age int = 10
 func init() {
 	Name = "this is test init"
 	Age = 11
+
 }
